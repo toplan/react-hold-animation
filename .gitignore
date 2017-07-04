@@ -1,0 +1,7 @@
+style.css
+package-lock.json
+.idea/
+node_modules/
+lib/
+es/
+umd/
